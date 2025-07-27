@@ -1,33 +1,29 @@
-<h1 align="center"><img src="https://img.shields.io/badge/-Antonio_Quijano-black?style=flat-square&logo=github&logoColor=white"/> 🕵️‍♂️</h1>
+<h1 align="center">🐈‍⬛ <img src="https://img.shields.io/badge/-Antonio_Quijano-black?style=flat-square&logo=github&logoColor=white"/> 🐈‍⬛</h1>
 
-<p align="center"><em>"Code is my crime scene. Logic is my weapon."</em></p>
 
 ---
 
-### 🗂️ 1. Case Files – Public Projects
+### 🗂️      Work in Progress :
+
+
 
 - 📡 [Api_FastApi_AcademicApp](https://github.com/AAQuijano/Api_FastApi_AcademicApp): RESTful backend with FastAPI, JWT, MySQL and Docker. Role-based academic control system hosted on AWS EC2.
 - 📱 [AcademicApp_Frontend](https://github.com/AAQuijano/AcademicApp_Frontend): Android app built with Jetpack Compose & MVVM. Secure login, professor/student split navigation and persistent JWT auth.
 
 ---
 
-### 🎬 2. Work in Progress
+### 🎬      Context :
 
-> Refining the flow between Android ↔ FastAPI.  
-> Secure login. Dynamic data binding. Clean architecture.  
-> Everything under one roof, deployed in the cloud.
 
----
 
-### 🕰️ 3. Context
-
-- I'm a software engineering student building cross-platform systems.
-- Backend by day. Android developer by night. Python detective by default.
-- I code for clarity. And sometimes, for the thrill.
+> Refining a full-stack academic management system hosted on AWS EC2, with login, registration, and protected routes for professors and students.  
+> Building intuitive interfaces and RESTful APIs.
 
 ---
 
-### 🧰 4. Technologies
+### 🧰      Technologies :
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
@@ -45,11 +41,13 @@
 
 ---
 
-### 📞 5. Contact
+### 📞       Contact :
+
+
 
 - ✉️ Email: [Alexisq05@hotmail.com](mailto:Alexisq05@hotmail.com)
 - 🐙 GitHub: [@AAQuijano](https://github.com/AAQuijano)
 
 ---
 
-<p align="center"><em>“Elegance is not a luxury in software. It’s a weapon.”</em></p>
+<p align="center"><em>“Dispuesto a mejorar y aprender”</em></p>
