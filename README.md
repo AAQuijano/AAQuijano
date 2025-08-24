@@ -1,5 +1,10 @@
 <h1 align="center">🐈‍⬛ <img src="https://img.shields.io/badge/-Antonio_Quijano-black?style=flat-square&logo=github&logoColor=white"/> 🐈‍⬛</h1>
 
+---
+
+<p align="center">
+  <img src="img/foto_carnet.png" alt="Foto de perfil" width="130">
+</p>
 
 ---
 
@@ -9,7 +14,7 @@
 
 - 📡 [Api_FastApi_AcademicApp](https://github.com/AAQuijano/Api_FastApi_AcademicApp): RESTful backend with FastAPI, JWT, MySQL and Docker. Role-based academic control system hosted on AWS EC2.
 - 📱 [AcademicApp_Frontend](https://github.com/AAQuijano/AcademicApp_Frontend): Android app built with Jetpack Compose & MVVM. Secure login, professor/student split navigation and persistent JWT auth.
-
+  
 ---
 
 ### 🎬      Context :
@@ -47,7 +52,3 @@
 
 - ✉️ Email: [Alexisq05@hotmail.com](mailto:Alexisq05@hotmail.com)
 - 🐙 GitHub: [@AAQuijano](https://github.com/AAQuijano)
-
----
-
-<p align="center"><em>“Dispuesto a mejorar y aprender”</em></p>
