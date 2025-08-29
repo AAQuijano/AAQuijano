@@ -50,5 +50,5 @@
 
 
 
-- ✉️ Email: [Alexisq05@hotmail.com](mailto:Alexisq05@hotmail.com)
+- ✉️ Email: [AA.Quijano@outlook.com](mailto:AA.Quijano@outlook.com)
 - 🐙 GitHub: [@AAQuijano](https://github.com/AAQuijano)
