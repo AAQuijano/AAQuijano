@@ -12,8 +12,9 @@
 
 
 
-- 📡 [Api_FastApi_AcademicApp](https://github.com/AAQuijano/Api_FastApi_AcademicApp): RESTful backend with FastAPI, JWT, MySQL and Docker. Role-based academic control system hosted on AWS EC2.
-- 📱 [AcademicApp_Frontend](https://github.com/AAQuijano/AcademicApp_Frontend): Android app built with Jetpack Compose & MVVM. Secure login, professor/student split navigation and persistent JWT auth.
+- 📡 [AcademicApp (Api)](https://github.com/AAQuijano/Api_FastApi_AcademicApp): RESTful backend with FastAPI, JWT, MySQL and Docker. Role-based academic control system hosted on AWS EC2.
+- 📱 AcademicApp (Frontend): **UNDER PLANNING** - Android frontend development pending
+- ⏳ App Engineering & Architecture: **PENDING** - Architecture design, patterns and technical documentation to be defined
   
 ---
 
