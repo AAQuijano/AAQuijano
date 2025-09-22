@@ -13,7 +13,7 @@
 
 
 - 📡 [AcademicApp (Api)](https://github.com/AAQuijano/Api_FastApi_AcademicApp): RESTful backend with FastAPI, JWT, MySQL and Docker. Role-based academic control system hosted on AWS EC2.
-- 📱 AcademicApp (Frontend): **UNDER PLANNING** - Android frontend development pending
+- 📱 AcademicApp (Frontend): **UNDER PLANNING** - Frontend development pending
 - ⏳ App Engineering & Architecture: **PENDING** - Architecture design, patterns and technical documentation to be defined
   
 ---
