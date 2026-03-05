@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
   <img src="https://img.shields.io/badge/SQLModel-111111?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=android&logoColor=00C853"/>
-  <img src="https://img.shields.io/badge/Retrofit-222222?style=for-the-badge&logo=kotlin&logoColor=orange"/>
+ <!-- <img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=android&logoColor=00C853"/>
+  <img src="https://img.shields.io/badge/Retrofit-222222?style=for-the-badge&logo=kotlin&logoColor=orange"/>-->
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_EC2-black?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white"/>
