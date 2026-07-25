@@ -59,5 +59,5 @@
 
 - ✉️ Correo: [AA.Quijano@outlook.com](mailto:AA.Quijano@outlook.com)
 - 🐙 GitHub: [@AAQuijano](https://github.com/AAQuijano)
-<!-- 💼 LinkedIn: [Antonio Quijano](https://linkedin.com/in/tuusuario) *(Recomiendo agregar)*
-- 🌐 Portafolio: [tu-sitio-web.com](https://tusitio.com) *(si tienes)*-->
+<!-- 💼 LinkedIn: [Antonio Quijano](https://linkedin.com/in/tuusuario)
+- 🌐 Portafolio: [tu-sitio-web.com](https://tusitio.com)-->
