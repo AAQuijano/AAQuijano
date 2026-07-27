@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLModel-111111?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,6 +52,13 @@
   <!--<img src="https://img.shields.io/badge/AWS_EC2-black?style=for-the-badge&logo=amazonaws&logoColor=orange"/>-->
   <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/C/C++-222222?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+**📚 Aprendiendo actualmente:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 </p>
 
 ---
